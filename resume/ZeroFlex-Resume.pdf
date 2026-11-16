@@ -1,0 +1,108 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3427 >>
+stream
+BT
+/F1 11 Tf
+/F2 18 Tf
+1 0 0 1 50 760 Tm (ZeroFlex \(zeroflex700\)) Tj
+/F1 10 Tf
+1 0 0 1 50 738 Tm (Full-Stack AI Engineer | AI Systems & Automation | Backend Engineering | Cybersecurity) Tj
+/F1 10 Tf
+1 0 0 1 50 722 Tm (Location: Nigeria  |  GitHub: github.com/zeroflex700) Tj
+/F2 12 Tf
+1 0 0 1 50 704 Tm (PROFESSIONAL SUMMARY) Tj
+/F1 10 Tf
+1 0 0 1 50 690 Tm (Engineer focused on full-stack web systems, AI-assisted workflows, backend services, and) Tj
+/F1 10 Tf
+1 0 0 1 50 678 Tm (practical security validation. Builds and iterates on independent projects with an emphasis) Tj
+/F1 10 Tf
+1 0 0 1 50 666 Tm (on clear architecture, automation, and maintainable implementation.) Tj
+/F2 12 Tf
+1 0 0 1 50 650 Tm (EDUCATION) Tj
+/F1 10 Tf
+1 0 0 1 50 636 Tm (B.Sc. Industrial Chemistry, Ekiti State University \(EKSU\), Nigeria ? Graduated 2024) Tj
+/F2 12 Tf
+1 0 0 1 50 620 Tm (PROFESSIONAL EXPERIENCE) Tj
+/F2 10 Tf
+1 0 0 1 50 606 Tm (Madros Technologies ? IT Support / Software Development \(NYSC Placement\)) Tj
+/F1 10 Tf
+1 0 0 1 50 594 Tm (Osogbo, Osun State, Nigeria | 2025-2026) Tj
+/F1 10 Tf
+1 0 0 1 50 582 Tm (- Assisted with technical support and digital operations.) Tj
+/F1 10 Tf
+1 0 0 1 50 570 Tm (- Participated in internal software projects.) Tj
+/F1 10 Tf
+1 0 0 1 50 558 Tm (- Supported day-to-day technical and operational needs.) Tj
+/F2 12 Tf
+1 0 0 1 50 542 Tm (TECHNICAL AREAS) Tj
+/F1 10 Tf
+1 0 0 1 50 528 Tm (Full-stack: Next.js, React, TypeScript, JavaScript) Tj
+/F1 10 Tf
+1 0 0 1 50 516 Tm (Backend: Python, FastAPI, PostgreSQL, Supabase, Redis) Tj
+/F1 10 Tf
+1 0 0 1 50 504 Tm (AI & Automation: AI coding agents, MCP, OpenCode, n8n, AI-assisted engineering, workflow automation) Tj
+/F1 10 Tf
+1 0 0 1 50 492 Tm (Security: Snyk SCA, dependency vulnerability assessment, project isolation, security validation) Tj
+/F1 10 Tf
+1 0 0 1 50 480 Tm (Creative Engineering: Blender, 3D workflows, motion design, scroll-driven web interactions) Tj
+/F2 12 Tf
+1 0 0 1 50 464 Tm (SELECTED PROJECTS) Tj
+/F2 10 Tf
+1 0 0 1 50 450 Tm (Haven Paws \(Public\) ? Next.js, TypeScript, Supabase, PostgreSQL, Vercel) Tj
+/F1 10 Tf
+1 0 0 1 50 438 Tm (  Premium pet marketplace, breeder administration and application infrastructure.) Tj
+/F1 10 Tf
+1 0 0 1 50 426 Tm (  GitHub: github.com/zeroflex700/haven-paws | Live: haven-paws-pi.vercel.app) Tj
+/F2 10 Tf
+1 0 0 1 50 414 Tm (Football Analytics \(Private, active development\) ? Next.js, TypeScript, Python, FastAPI, PostgreSQL) Tj
+/F1 10 Tf
+1 0 0 1 50 402 Tm (  Football intelligence workstation: xG, Poisson modelling, Elo ratings, data integration.) Tj
+/F2 10 Tf
+1 0 0 1 50 390 Tm (Design Intelligence Workstation ? Python, OpenCV, Pillow, Tesseract, AI workflows) Tj
+/F1 10 Tf
+1 0 0 1 50 378 Tm (  Visual-reference analysis, colour extraction, OCR, image processing, prompt compilation.) Tj
+/F2 10 Tf
+1 0 0 1 50 366 Tm (AI-Orchestrated Security Infrastructure ? OpenCode, Python, MCP, Snyk) Tj
+/F1 10 Tf
+1 0 0 1 50 354 Tm (  Restricted SCA integration concepts, project isolation, access boundaries, validation workflows.) Tj
+/F2 12 Tf
+1 0 0 1 50 338 Tm (LEARNING & DEVELOPMENT) Tj
+/F1 10 Tf
+1 0 0 1 50 324 Tm (Self-taught since 2023 via YouTube, X, documentation, experimentation, and practical projects.) Tj
+/F1 10 Tf
+1 0 0 1 50 312 Tm (No formal professional certifications currently claimed.) Tj
+/F1 10 Tf
+1 0 0 1 50 300 Tm (Contact details \(email/LinkedIn\): awaiting information.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003730 00000 n 
+0000003800 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3875
+%%EOF
