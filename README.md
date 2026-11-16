@@ -141,7 +141,7 @@ Ekiti State University (EKSU), Nigeria — **Graduated 2024**
 - **GitHub:** [github.com/zeroflex700](https://github.com/zeroflex700)
 - **X / Twitter:** [x.com/zhinobizero](https://x.com/zhinobizero)
 - **Résumé:** [ZeroFlex-Resume.pdf](resume/ZeroFlex-Resume.pdf)
-- **Email:** *Awaiting information*
+- **Email:** *nodegeist@gmail.com*
 - **LinkedIn:** *Awaiting information*
 
 ---
